@@ -1,0 +1,17 @@
+---
+ns: VEHICLE
+aliases: ["0x0419B167EE128F33", "VEHICLE_SET_OVERRIDE_EXTENABLE_SIDE_RATIO"]
+---
+## _0x0419B167EE128F33
+
+```c
+// 0x0419B167EE128F33
+int VEHICLE_SET_OVERRIDE_EXTENABLE_SIDE_RATIO(Any p0, Any p1);
+```
+
+
+## Parameters
+* **p0**: 
+* **p1**: 
+
+## Return value
